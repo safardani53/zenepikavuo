@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zenepikavuo.pages.dev/sitemap.xml
